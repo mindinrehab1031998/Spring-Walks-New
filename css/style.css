@@ -23,6 +23,11 @@ footer{
 li{
     display:inline-block;
     width:200px;
+    /*
+li{
+   ...
+}
+*/
 }
 
 h1{
