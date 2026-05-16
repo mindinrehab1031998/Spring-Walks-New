@@ -19,6 +19,11 @@ nav img{
    top:20px;
 }
 
+.grid{
+   display:grid;
+   grid-template-columns:40% 40%;
+}
+
 main{
     background-color: yellow;
     font-size:20px;
